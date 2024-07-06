@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="VendingMachineSystem_PramodaChandru:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VendingMachineSystem_PramodaChandru_jar</output-path>
+    <root id="archive" name="VendingMachineSystem_PramodaChandru.jar">
+      <element id="module-output" name="VendingMachineSystem_PramodaChandru" />
+    </root>
+  </artifact>
+</component>
