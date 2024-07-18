@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+    <AccessoryCatalog>
+        <accessory id="Amazon - Echo Dot_Acc">
+            <name>Amazon - Echo Dot_Acc</name>
+            <price>59.99</price>
+            <image>amazon_echo.jpg</image>
+            <description>Amazon - Echo Dot with Clock (5th Gen, 2022 Release) Smart Speaker with Alexa - Cloud Blue</description>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <quantity>25</quantity>
+            <discount>25.0</discount>
+        </accessory>
+        <accessory id="WD-My Cloud Storage">
+            <name>WD-My Cloud Storage</name>
+            <price>399.99</price>
+            <image>wd.jpg</image>
+            <description>WD-My Cloud Storage</description>
+            <manufacturer>WD</manufacturer>
+            <condition>New</condition>
+            <quantity>26</quantity>
+            <discount>10.0</discount>
+        </accessory>
+        <accessory id="Multi Charging Cable">
+            <name>Multi Charging Cable</name>
+            <price>5.0</price>
+            <image>charger.jpg</image>
+            <description>Multi Charging Cable</description>
+            <manufacturer>OnlyTang</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>27</quantity>
+        </accessory>
+    </AccessoryCatalog>
+
+    <SmartDoorbellCatalog>
+        <doorbell id="Eufy Security">
+            <name>Eufy Security</name>
+            <price>259.99</price>
+            <image>eufy_doorbell_Dual.jpg</image>
+            <description>Smart Wi-Fi Dual Cam Video Doorbell 2K Battery Operated/Wired with Google Assistant and Amazon Alexa</description>
+            <manufacturer>Eufy</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>10</quantity>
+            <accessories>
+                <accessory>Amazon - Echo Dot_Acc</accessory>
+                <accessory>WD-My Cloud Storage</accessory>
+                <accessory>Multi Charging Cable</accessory>
+            </accessories>
+        </doorbell>
+        <doorbell id="Eufy Security 2k">
+            <name>Eufy Security 2k</name>
+            <price>94.98</price>
+            <image>eufy_doorbell_2k.jpg</image>
+            <description>eufy Security - Smart Wi-Fi Video Doorbell 2K Pro Wired - Black/White</description>
+            <manufacturer>Eufy</manufacturer>
+            <condition>Refurbished</condition>
+            <discount>12.0</discount>
+            <quantity>12</quantity>
+            <accessories>
+                <accessory>Amazon - Echo Dot_Acc</accessory>
+                <accessory>WD-My Cloud Storage</accessory>
+                <accessory>Multi Charging Cable</accessory>
+            </accessories>
+        </doorbell>
+        <doorbell id="Ring - Chime">
+            <name>Ring - Chime</name>
+            <price>38.99</price>
+            <image>Ring_chime.jpg</image>
+            <manufacturer>Ring</manufacturer>
+            <description>Ring - Wi-Fi Smart Video Doorbell - Wired with Chime</description>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <quantity>17</quantity>
+            <accessories>
+                <accessory>Amazon - Echo Dot_Acc</accessory>
+                <accessory>WD-My Cloud Storage</accessory>
+                <accessory>Multi Charging Cable</accessory>
+            </accessories>
+        </doorbell>
+        <doorbell id="Google - Nest">
+            <name>Google - Nest</name>
+            <price>99.99</price>
+            <image>google_doorbell.jpg</image>
+            <description>Google - Nest Doorbell Wired (2nd Generation) </description>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>9</quantity>
+            <accessories>
+                <accessory>Amazon - Echo Dot_Acc</accessory>
+                <accessory>WD-My Cloud Storage</accessory>
+                <accessory>Multi Charging Cable</accessory>
+            </accessories>
+        </doorbell>
+        <doorbell id="Ring Doorbell">
+            <name>Ring Doorbell</name>
+            <price>179.99</price>
+            <image>Ring.jpg</image>
+            <description>Ring - Battery Doorbell Plus Smart Wifi Video Doorbell</description>
+            <manufacturer>Ring</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <quantity>31</quantity>
+            <accessories>
+                <accessory>Amazon - Echo Dot_Acc</accessory>
+                <accessory>WD-My Cloud Storage</accessory>
+                <accessory>Multi Charging Cable</accessory>
+            </accessories>
+        </doorbell>
+    </SmartDoorbellCatalog>
+
+    <SmartDoorlockCatalog>
+        <doorlock id="LocLockly - Vision Elite">
+            <name>Lockly - Vision Elite</name>
+            <price>499.99</price>
+            <image>lockly.jpg</image>
+            <description>Lockly - Vision Elite Smart Lock Deadbolt with App/Electronic Guest/Touchscreen</description>
+            <manufacturer>Lockly</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <quantity>13</quantity>
+        </doorlock>
+        <doorlock id="Lockly_FS">
+            <name>Lockly_FS</name>
+            <price>189.99</price>
+            <image>Lockly_FS.jpg</image>
+            <description>Lockly - Flex Touch Smart Lock Bluetooth Replacement Deadbolt with Fingerprint Sensor</description>
+            <manufacturer>Lockly</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <quantity>14</quantity>
+        </doorlock>
+        <doorlock id="Lockly_Bluetooth">
+            <name>Lockly_Bluetooth</name>
+            <price>227.99</price>
+            <image>Lockly_Bluetooth.jpg</image>
+            <description>Lockly - Secure Plus Smart Lock Bluetooth Retrofit Door Handle with Touchscreen/Fingerprint Sensor/Key Access/Auto Lock</description>
+            <manufacturer>Lockly</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>24</quantity>
+        </doorlock>
+        <doorlock id="eufy Security - Smart Lock">
+            <name>eufy Security - Smart Lock</name>
+            <price>209.99</price>
+            <image>eufy.jpg</image>
+            <description>eufy Security - Smart Lock Wi-Fi Replacement Deadbolt with App/Keypad/Biometric Access</description>
+            <manufacturer>Eufy</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <quantity>7</quantity>
+        </doorlock>
+        <doorlock id="Nest x Yale - Smart Lock">
+            <name>Nest x Yale - Smart Lock</name>
+            <price>260.99</price>
+            <image>nest.jpg</image>
+            <description>Nest x Yale - Smart Lock Wi-Fi Replacement Deadbolt with App/Keypad/Voice assistant Access</description>
+            <manufacturer>Yale</manufacturer>
+            <condition>New</condition>
+            <discount>50.0</discount>
+            <quantity>17</quantity>
+        </doorlock>
+    </SmartDoorlockCatalog>
+
+    <SamrtSpeakerCatalog>
+        <speaker id="Amazon - Echo Dot">
+            <name>Amazon - Echo Dot</name>
+            <price>59.99</price>
+            <image>amazon_echo.jpg</image>
+            <description>Amazon - Echo Dot with Clock (5th Gen, 2022 Release) Smart Speaker with Alexa - Cloud Blue</description>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>25.0</discount>
+            <quantity>12</quantity>
+        </speaker>
+        <speaker id="Amazon - Echo Pop">
+            <name>Amazon - Echo Pop</name>
+            <price>39.99</price>
+            <image>amazon_pop.jpg</image>
+            <description>Amazon - Echo Pop (1st Generation) Smart Speaker with Alexa</description>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>25.0</discount>
+            <quantity>2</quantity>
+        </speaker>
+        <speaker id="Amazon - Echo Show">
+            <name>Amazon - Echo Show</name>
+            <price>89.99</price>
+            <image>amazon_show.jpg</image>
+            <description>Amazon - Echo Show 5 (3rd Generation) 5.5 inch Smart Display with Alexa</description>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>10.0</discount>
+            <quantity>16</quantity>
+        </speaker>
+        <speaker id="Apple - HomePod">
+            <name>Apple - HomePod</name>
+            <price>99.99</price>
+            <image>apple.jpg</image>
+            <description>Apple - HomePod mini - Blue</description>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>2.0</discount>
+            <quantity>21</quantity>
+        </speaker>
+        <speaker id="Bose - Smart Speaker 500">
+            <name>Bose - Smart Speaker 500</name>
+            <price>379.99</price>
+            <image>bose.jpg</image>
+            <description>Bose - Smart Speaker 500 Wireless All-In-One Smart Speaker</description>
+            <manufacturer>Bose</manufacturer>
+            <condition>Refurbished</condition>
+            <discount>20.0</discount>
+            <quantity>22</quantity>
+        </speaker>
+    </SamrtSpeakerCatalog>
+
+    <SmartLightingCatalog>
+        <light id="Govee - Flow">
+            <name>Govee - Flow</name>
+            <price>79.99</price>
+            <image>govee.jpg</image>
+            <description>Govee - Flow Pro RGBICWW Smart Light Bars - Black</description>
+            <manufacturer>Govee</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <quantity>23</quantity>
+        </light>
+        <light id="Govee - Glide Wall">
+            <name>Govee - Glide Wall</name>
+            <price>249.99</price>
+            <image>Govee_light.jpg</image>
+            <description>Govee - Glide Wall Light (4+1) - Multi</description>
+            <manufacturer>Govee</manufacturer>
+            <condition>New</condition>
+            <discount>12.0</discount>
+            <quantity>24</quantity>
+        </light>
+        <light id="Philips - Hue Play">
+            <name>Philips - Hue Play</name>
+            <price>159.99</price>
+            <image>philips.jpg</image>
+            <description>Philips - Hue Play White and Color Ambiance Smart LED Bar Light - Multicolor</description>
+            <manufacturer>Philips</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <quantity>31</quantity>
+        </light>
+
+        <light id="Philips - Hue Bluetooth">
+            <name>Philips - Hue Bluetooth</name>
+            <price>53.99</price>
+            <image>philips_hue.jpg</image>
+            <description>Philips - Hue White and Color Ambiance Bluetooth 5/6" High Lumen Recessed Downlight</description>
+            <manufacturer>Philips</manufacturer>
+            <condition>New</condition>
+            <discount>20.0</discount>
+            <quantity>12</quantity>
+        </light>
+        <light id="Ring - A19 Wi-Fi">
+            <name>Ring - A19 Wi-Fi</name>
+            <price>14.99</price>
+            <image>ring.jpg</image>
+            <description>Ring - A19 Wi-Fi Smart LED Bulb - White</description>
+            <manufacturer>Ring</manufacturer>
+            <condition>New</condition>
+            <discount>25.0</discount>
+            <quantity>7</quantity>
+        </light>
+    </SmartLightingCatalog>
+
+    <SmartThermostatCatalog>
+        <thermostat id="ecobee - Premium">
+            <name>ecobee - Premium</name>
+            <price>249.00</price>
+            <image>ecobee.jpg</image>
+            <description>ecobee - Premium Smart Programmable Touch-Screen Thermostat with Siri, Alexa, Apple HomeKit and Google Assistant</description>
+            <manufacturer>ecobee</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <quantity>8</quantity>
+        </thermostat>
+        <thermostat id="Honeywell Home">
+            <name>Honeywell Home</name>
+            <price>179.99</price>
+            <image>honeywell.jpg</image>
+            <description>Honeywell Home - Smart Color Thermostat with Wi-Fi Connectivity</description>
+            <manufacturer>Honeywell</manufacturer>
+            <condition>Refurbished</condition>
+            <discount>20.0</discount>
+            <quantity>12</quantity>
+        </thermostat>
+        <thermostat id="Emerson - Sensi">
+            <name>Emerson - Sensi</name>
+            <price>89.99</price>
+            <image>emerson.jpg</image>
+            <description>Emerson - Sensi Lite Smart Programmable Wi-Fi Thermostat-Works with Alexa</description>
+            <manufacturer>Emerson</manufacturer>
+            <condition>New</condition>
+            <discount>12.0</discount>
+            <quantity>14</quantity>
+        </thermostat>
+        <thermostat id="Google - Smart">
+            <name>Google - Smart</name>
+            <price>129.99</price>
+            <image>google_smart.jpg</image>
+            <description>Google - Smart Programmable Wifi Thermostat</description>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <quantity>27</quantity>
+        </thermostat>
+        <thermostat id="Google - Nest_TS">
+            <name>Google - Nest_TS</name>
+            <price>249.99</price>
+            <image>google_nest.jpg</image>
+            <description>Google - Nest Learning Smart Wifi Thermostat </description>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>15.0</discount>
+            <quantity>35</quantity>
+        </thermostat>
+    </SmartThermostatCatalog>
+</ProductCatalog>
