@@ -20,6 +20,6 @@ Build the project to generate the Jar file.
 Run:
 Open terminal.
 Navigate to the directory where the jar exists.
-Run the command: java -jar <jar-file-name>.jar
+Run the command: `java -jar <jar-file-name>.jar`
 
 ![image](https://github.com/user-attachments/assets/351ae34b-2706-4b3e-971a-c9a078df30eb)
