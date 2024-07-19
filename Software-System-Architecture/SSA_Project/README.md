@@ -4,9 +4,9 @@ Project Overview
 This project involves designing two Vending Machine (VM) components using the Model-Driven Architecture (MDA). The project implements these Vending Machine components based on the designed architecture.
 
 Design Patterns Used
-State Pattern: 
-Strategy Pattern
-Abstract Factory Pattern
+1. State Pattern
+2. Strategy Pattern
+3. Abstract Factory Pattern
 
 Build and Run Instructions
 Java Version: Oracle OpenJDK Version (1.8.0_371)
