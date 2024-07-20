@@ -12,7 +12,7 @@ public class DispenseAdditive_1 extends DispenseAdditive {
         int counter = 1;
         for (int i : a) {
             if (counter == 1 && i == 1) {
-                System.out.println("add some sugar");
+                System.out.println("add some sugar"); // Todo move to constants
             }
             counter++;
         }
